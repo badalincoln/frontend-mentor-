@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  background-color: #cbe8f7;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+    background-color: white;
+    width: 300px;
+    margin: 5em auto;
+    border: none;
+    border-radius: 20px;
+}
+
+.qr {
+    width: 270px;
+    margin: 0 auto;
+    padding-top: 1em;
+}
+
+img {
+    width: 270px;
+    margin: 0 auto;
+    border: none;
+    border-radius: 10px;
+   
+}
+
+.text {
+    padding: 0 1em;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 1rem;
+    color: rgb(107, 105, 105);
+    text-align: center;
+}
+
+.bold {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: black;
+}
+
+.attribution {
+    font-size: 1rem;
+    padding-bottom: 1em;
+}
+
+a {
+    text-decoration: none;
+}
